@@ -1,0 +1,3 @@
+The purpose of this is to create a adafruit library .mpy file suitable for use with  Mu-editor Circuit Python on circuit playground bluefruit boards and any other adafruit board.   The interpolate function needs to use the import "bisect" in python. 
+
+It's functionality is to interpolated betwenn two values in an array and return a value for a given position within the array.
